@@ -145,9 +145,9 @@ width: 3000px;
 }
 .photos{
     background-image: url(/pictures/couples.jpg);
-    display: flex;
     margin-left: 80px;
     gap: 30px;
+    background-repeat: no-repeat;
 }
 #usa{
     background-color: #ffa500;
@@ -169,4 +169,8 @@ width: 3000px;
 }
 .number{
     color: white;
+}
+#display{
+    display: flex;
+    justify-content: space-evenly;
 }
