@@ -1,0 +1,80 @@
+#navbar{
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+}
+.home{
+    color: rgb(219, 188, 49);
+}
+.about{
+    color: rgb(42, 42, 49);
+}
+#family{
+background-image: url(/pictures/familypacking.jpg);
+background-repeat: no-repeat;
+width: auto;
+padding: 100px;
+height: 1000px;
+padding-right: 400%;
+}
+#make{
+    text-align: center;
+    margin-top: 80px;
+    align-content: center;
+}
+.started{
+    background-color: #ffa500;
+    color: white;
+    width: 155px;
+    padding: 9px;
+}
+.smooth{
+    color: rgb(77, 77, 170);
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: x-small;
+}
+.moving{
+    color: rgb(42, 42, 48);
+    font-size: xxx-large;
+}
+#secondDiv{
+    display: flex; 
+    justify-content: center; 
+}
+#statement{
+    display: flex;
+    gap: 10px;
+}
+.fade{
+    color: rgb(106, 106, 138);
+}
+#logo{
+    display: flex;
+    justify-content: space-between;
+}
+.ipsum{
+    display: flex;
+}
+#lorem{
+    display: flex;
+}
+#log{
+    background-color: rgb(33, 33, 37);
+    color: white;
+    width: 175px;
+    height: 50px;
+}
+#cont{
+    width: 100px;
+    height: 50px;
+}
+#thirddivision{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#phase{
+    background-color: skyblue;
+    
+}
