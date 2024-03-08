@@ -61,11 +61,11 @@ width: 3000px;
 #lorem{
     display: flex;
 }
-#log{
+.log{
     background-color: rgb(33, 33, 37);
     color: white;
-    width: 175px;
-    height: 50px;
+    width: 115px;
+    padding: 10px;
 }
 #cont{
     width: 100px;
@@ -124,4 +124,44 @@ width: 3000px;
 }
 #orange{
     background-color: #ffa500;
+}
+#profile{
+    display: flex;
+    justify-content: space-evenly;
+}
+#newsletter{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#email{
+    display: flex;
+    justify-content: space-evenly;
+}
+.photos{
+    background-image: url(/pictures/couples.jpg);
+    display: flex;
+    margin-left: 80px;
+    gap: 30px;
+}
+#usa{
+    background-color: #ffa500;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+#main{
+    background-color: rgb(34, 34, 37);
+    padding-top: 30px;
+}
+#number{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#copy{
+    justify-content: center;
+}
+.number{
+    color: white;
 }
